@@ -23,5 +23,89 @@
     {
         "name": "Yellow",
         "hex": "#ffff00"
+    },
+    {
+        "name": "Purple",
+        "hex": "#ff00ff"
+    },
+    {
+        "name": "Orange",
+        "hex": "#ffa500"
+    },
+    {
+        "name": "Pink",
+        "hex": "#ffc0cb"
+    },
+    {
+        "name": "Brown",
+        "hex": "#a52a2a"
+    },
+    {
+        "name": "Gray",
+        "hex": "#808080"
+    },
+    {
+        "name": "Light Blue",
+        "hex": "#add8e6"
+    },
+    {
+        "name": "Light Green",
+        "hex": "#90ee90"
+    },
+    {
+        "name": "Light Yellow",
+        "hex": "#ffffe0"
+    },
+    {
+        "name": "Light Purple",
+        "hex": "#e6e6fa"
+    },
+    {
+        "name": "Light Orange",
+        "hex": "#ffd700"
+    },
+    {
+        "name": "Light Pink",
+        "hex": "#ffb6c1"
+    },
+    {
+        "name": "Light Brown",
+        "hex": "#deb887"
+    },
+    {
+        "name": "Light Gray",
+        "hex": "#d3d3d3"
+    },
+    {
+        "name": "Dark Red",
+        "hex": "#8b0000"
+    },
+    {
+        "name": "Dark Green",
+        "hex": "#008000"
+    },
+    {
+        "name": "Dark Blue",
+        "hex": "#00008b"
+    },
+    {
+        "name": "Dark Yellow",
+        "hex": "#b8860b"
+    },
+    {
+        "name": "Dark Purple",
+        "hex": "#800080"
+    },
+    {
+        "name": "Dark Orange",
+        "hex": "#ff8c00"
+    },
+    {
+        "name": "Dark Pink",
+        "hex": "#da70d6"
+    },
+    {
+        "name": "Dark Brown",
+        "hex": "#a0522d"
     }
 ]
