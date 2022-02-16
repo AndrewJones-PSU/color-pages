@@ -1,0 +1,27 @@
+// data/colors.json
+[
+    {
+        "name": "Pure Red",
+        "hex": "#ff0000"
+    },
+    {
+        "name": "Pure Green",
+        "hex": "#00ff00"
+    },
+    {
+        "name": "Pure Blue",
+        "hex": "#0000ff"
+    },
+    {
+        "name": "Black",
+        "hex": "#000000"
+    },
+    {
+        "name": "White",
+        "hex": "#ffffff"
+    },
+    {
+        "name": "Yellow",
+        "hex": "#ffff00"
+    }
+]
